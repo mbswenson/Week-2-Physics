@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/dis box.unity
+  isLoaded: 1
+  isActive: 1
